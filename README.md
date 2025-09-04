@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable applicati
 
 ## 🌟 Featured Projects  
 
-### 📧 [Java Email Admin App](https://github.com/saivarun1311/java-email-admin)  
+### 📧 [Java Email Admin App](https://github.com/saivarun1311/java-email)  
 A simple Java application demonstrating OOP concepts by creating and managing employee email accounts.  
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)  
 
